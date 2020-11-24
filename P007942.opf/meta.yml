@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD17445
   title: སྤྱིར་བཏང་དངོས་ལུགས་དངོས་བཤེར། ཤུགས་རིག་པ། ཚ་བ་རིག་པ།
-  volume: ''
+  volume:
+    b4d1f7626aab4d75b8507e4e3ed4a5d0:
+      image_group_id: I2PD17961
+      title: Volume 1 of spyir btang dngos lugs dngos bsher/ shugs rig pa/ tsha ba
+        rig pa/
+      volume_number: 1
+      total_pages: 254
   author: ''
+ebook_metadata:
+  title: སྤྱིར་བཏང་དངོས་ལུགས་དངོས་བཤེར། ཤུགས་རིག་པ། ཚ་བ་རིག་པ།
+  author: ''
+  sku: P007942
+  cover: cover.jpg
+  layers:
+  - pagination
