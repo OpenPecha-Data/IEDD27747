@@ -5,11 +5,13 @@ source_metadata:
   title: སྤྱིར་བཏང་དངོས་ལུགས་དངོས་བཤེར། ཤུགས་རིག་པ། ཚ་བ་རིག་པ།
   author: ''
   volumes:
-    db17ffa0601647249f0483d197044bf9:
+    b4d1f7626aab4d75b8507e4e3ed4a5d0:
       image_group_id: I2PD17961
-      title: ''
+      title: Volume 1 of spyir btang dngos lugs dngos bsher/ shugs rig pa/ tsha ba
+        rig pa/
       volume_number: 1
       total_pages: 254
+      base_file: v001.txt
 ebook_metadata:
   title: སྤྱིར་བཏང་དངོས་ལུགས་དངོས་བཤེར། ཤུགས་རིག་པ། ཚ་བ་རིག་པ།
   author: ''
